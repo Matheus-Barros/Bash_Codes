@@ -4,4 +4,4 @@
 # ==========================================
 #IT'LL PRINT WORDS STARTING WITH LETTER 'A'
 echo Processing
-grep 'A' Fruits.txt
+grep 'A' Fruits.t
