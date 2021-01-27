@@ -1,0 +1,7 @@
+Apple
+Banana
+Orange
+Strawberry
+Grape
+Pineapple
+Avocado
